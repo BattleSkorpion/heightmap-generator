@@ -1,15 +1,15 @@
 {
-    "files": ["in/n49_e018_1arc_v3.dt2", "in/n49_e019_1arc_v3.dt2"],
+    "files": ["in/N41W071.hgt", "in/N41W072.hgt", "in/N41W073.hgt", "in/N41W074.hgt", "in/N42W071.hgt", "in/N42W072.hgt", "in/N42W073.hgt", "in/N42W074.hgt", "in/N43W071.hgt", "in/N43W072.hgt", "in/N43W073.hgt", "in/N43W074.hgt"],   
     "map": {
         "path": "out",
-        "file_name": "wisla",
-        "center_latitude": 49.628117,
-        "center_longtitude": 18.915636,
-        "minimal_terrain_height": 300,
+        "file_name": "se_ma_ri",
+        "center_latitude": 41.7026391,
+        "center_longtitude": -71.1589417,
+        "minimal_terrain_height": -100,
         "maximal_terrain_height": 900,
-        "tile_size_x": 1000,
-        "tile_size_y": 1000,
-        "tile_resolution": 513,
+        "tile_size_x": 512,
+        "tile_size_y": 512,
+        "tile_resolution": 1024,
         "tiles_around": [1, 1, 1, 1]
     }
 }
