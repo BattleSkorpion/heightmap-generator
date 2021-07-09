@@ -5,7 +5,8 @@ import json
 import numpy as np
 import scipy
 import scipy.interpolate
-import gdal
+#import osgeo as gdal                 #import gdal
+from osgeo import gdal, osr
 
 import geodetic
 
