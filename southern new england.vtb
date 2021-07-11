@@ -1,5 +1,5 @@
 Projection GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],TOWGS84[0,0,0,0,0,0,0],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9108"]],AUTHORITY["EPSG","4326"]]
-layers: 12
+layers: 14
 type 1, import
 E:\Users\Skorpion\heightmap-generator\in\N41W071.hgt
 type 1, import
@@ -24,5 +24,9 @@ type 1, import
 E:\Users\Skorpion\heightmap-generator\in\N43W073.hgt
 type 1, import
 E:\Users\Skorpion\heightmap-generator\in\N43W074.hgt
-area 0.000000 0.000000 0.000000 0.000000
-view -72.591281 42.503303 -69.757839 40.957029
+type 1, import
+Untitled
+type 2, import
+Untitled
+area -72.059802 42.550928 -70.784581 41.294521
+view -73.066427 42.561458 -70.906884 41.382947
